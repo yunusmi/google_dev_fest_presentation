@@ -1,1 +1,3 @@
-# google_dev_fest_presentation
+# Google developers group
+
+Презентация, которая была использована для показа слайдов, при выступления в качестве спикера в Google dev fest 2023, Ашхабад.
